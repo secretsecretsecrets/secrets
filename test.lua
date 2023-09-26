@@ -1,1 +1,1 @@
-keylist = "test", "testing", "test123"
+_G.keylist = "test", "testing", "test123"
